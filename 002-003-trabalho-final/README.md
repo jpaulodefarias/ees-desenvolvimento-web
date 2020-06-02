@@ -1,3 +1,3 @@
 Projeto desenvolvido em um repositório separado:
 
-[IMDb](../../../IMDb)
+[IMDb](https://github.com/jpaulodefarias/IMDb)
